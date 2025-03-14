@@ -10,10 +10,10 @@
         <legend>Maior número</legend>
         <form method="post" action="calcular.php">
             Digite um número:
-            <input type="text" name="numero1" size="25" /> <br/>
+            <input type="text" name="n1" size="25" /> <br/>
         <br/>
         Digite outro número:
-        <input type="text" name="numero2" size="25" /> <br/>
+        <input type="text" name="n2" size="25" /> <br/>
         <input type="submit" name="total" value="calcular" />
         </form>
     </fieldset>
